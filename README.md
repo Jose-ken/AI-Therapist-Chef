@@ -1,5 +1,5 @@
 # AI-Therapist-Chef
-一个基于体感反馈优化的AI健康食疗ChatGpt推荐系统/ChatGpt-AI food therapy system guided by real-world somatic feedback.
+一个基于体感反馈优化的ChatGpt-AI健康食疗推荐系统/ChatGpt-AI food therapy system guided by real-world somatic feedback.
 # 🎯 项目目标 · Project Goal  
 **人人可用的 AI 食疗推荐系统**  
 *A practical AI-powered food therapy system for everyone.*
