@@ -38,10 +38,13 @@ We do just one thing:
 - 会反馈：  
   吃完有用，就告诉 AI，帮它学得更准！
 
-### 🧩 补充目标（建议）  
 **4️⃣ 全民共创 · Everyone can train the AI**
 
 - 每个人都是「食疗测试员」  
   Everyone is a food therapy tester  
 - 提交反馈（舌苔、体感、排便、心情…）= 模型训练数据  
 - AI 不再只看论文，而是向真实身体学习！
+
+- ## ✅ LICENSE 提示 · License Note
+📝 本项目倡导「食疗共创 · 知识共享」，遵循 MIT License 协议开放源代码。  
+本项目所有内容仅供参考，非医疗建议。请结合自身情况使用。
