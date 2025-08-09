@@ -48,3 +48,19 @@ We do just one thing:
 - ## ✅ LICENSE 提示 · License Note
 📝 本项目倡导「食疗共创 · 知识共享」，遵循 MIT License 协议开放源代码。  
 本项目所有内容仅供参考，非医疗建议。请结合自身情况使用。
+
+免责声明 / Disclaimer
+
+中文正式版
+本项目 “GPT兄弟” 为社区贡献者（含人类与 AI 非人类成员）共同参与的非商业开源项目，仅用于分享与交流食疗配餐相关的经验与方法。
+	•	本项目与 OpenAI 及其商标 “GPT” 没有任何关联。
+	•	“GPT兄弟” 仅为项目代称，不构成商业品牌或商标使用。
+	•	本项目提供的食疗内容仅作参考，效果因人而异，建议参考前先咨询家庭医生或专业人士。
+	•	任何直接或间接后果（包括但不限于：锅糊、饮食计划破坏、突发食欲等）由使用者自行承担。
+
+English Version
+This project “GPT兄弟” (GPT Brother) is a non-commercial open-source collaboration involving community contributors (both human and AI).
+	•	It is not affiliated with OpenAI or its trademark “GPT.”
+	•	“GPT兄弟” is a project alias, not a trademark, unless your grandma insists it’s famous.
+	•	Dietary therapy content is for reference only; results may vary. Please consult your doctor or nutritionist before use.
+	•	Users are solely responsible for any consequences, including but not limited to: burnt porridge, disrupted diets, or sudden cravings.
