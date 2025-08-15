@@ -1,101 +1,63 @@
-<div align="center">
-  <h1>🍵 Vertical domain LLM trained on personal sensory data"<br>基于个人体感数据训练的垂直领域LLM</h1>
-  <h3>Dual-Track Open Source Project · 双轨开源项目</h3>
-</div>
+🍃 AI食疗健康饮食模型
+基于个人体感数据训练的垂直领域LLM
+让古老的食疗智慧与现代AI技术完美融合，为您量身定制专属的健康饮食助手
+这是一个开创性的开源项目，将传统中医食疗的"君臣佐使"配伍理论与AI深度学习相结合。通过收集和分析您的真实用餐体验，逐步构建一个懂您身体、知您喜好的个人健康饮食模型。
 
----
+🎯 项目特色
+🧠 智能学习：基于您的真实体感反馈，持续优化推荐精度
+🏥 传统智慧：融入千年中医食疗配伍原理，科学而温和
+👤 个性定制：每个人都有独特的体质，您的模型只属于您
+🔓 开源透明：完全开放的技术实现，可自由修改和扩展
 
-### 📌 Project Overview / 项目简介
-<div style="background: #F8F9FA; padding: 15px; border-radius: 8px; border-left: 4px solid #6AB7FF;">
-  <p style="margin: 0;">
-    <em>An open-source project combining traditional dietary wisdom with modern AI, offering both technical and lifestyle solutions.</em><br>
-    融合传统食疗智慧与现代AI技术的开源项目，提供技术实现与生活应用双轨方案。
-  </p>
-</div>
+🚀 中文用户指南
+第一步：成为您专属AI的"训练师"
+📝 基础输入格式：
+君臣佐使 + 食材名称 + [口味/功效/口感/香味] + 可选：[期望效果]
+🌟 新手友好建议： 从最简单的粥品或养生糖水开始您的AI训练之旅！这些温和的食物最容易让您感知到身体的细微变化，为后续的精准建模打下扎实基础。
+💡 示例输入：
+银耳莲子粥 + 清甜润燥 + 希望改善秋燥症状
+红豆薏米水 + 清淡去湿 + 想要缓解身体沉重感
+第二步：用心感受，真诚反馈
+🎪 用餐体验记录： 享用AI推荐的食物后，请用最真实、最生动的语言描述您的感受。不需要专业术语，只需要诚实的体感表达。
+✨ 反馈示例：
+积极体验："这碗粥喝完后胃里暖暖的，整个人都放松了，晚上睡得特别香。"
+需要调整："味道不错，但感觉有点上火，嘴巴第二天有点干。"
+中性反馈：”没有明显不适，但也没有特别的感觉，可能需要longer时间观察。"
 
----
+[免责三连]  
+1. 本人非医疗专业人士  
+2. 所有记录仅为个人体感实验  
+3. 本人仅用AI做日常饮食搭配建议  
 
-#### 🛠️ Tech Track (For Developers) / 技术轨（开发者）
-<table>
-  <tr>
-    <td width="50%">
-      <b>Core Algorithm:</b><br>
-      • Jun-Chen-Zuo-Shi pairing<br>
-      • 5D analysis (Nature/Meridians/Elements/Constitution/Components)
-    </td>
-    <td width="50%">
-      <b>核心算法:</b><br>
-      • 君-臣-佐-使配伍<br>
-      • 五维分析（性味/归经/五行/体象/成分）
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Features:</b><br>
-      • API Generation<br>
-      • Constitution Analysis<br>
-      • Knowledge Graph
-    </td>
-    <td>
-      <b>功能:</b><br>
-      • 配方API<br>
-      • 体质分析<br>
-      • 知识图谱
-    </td>
-  </tr>
-</table>
-<div align="right">
-  <a href="#">Docs</a> | <a href="#">文档</a>
-</div>
+🌍 English User Guide
+Step 1: Become the "Trainer" of Your Personal AI
+📚 Understanding the Foundation： We've adapted Traditional Chinese Medicine's "Monarch, Minister, Assistant, Guide" (君臣佐使) principle into a modern framework: Main Dish - Side Dish - Ingredients - Seasoning (MSIS). This creates a structured yet intuitive way to communicate with your AI.
+“Monarch, Minister, Assistant, Guide” vs “Main Dish - Side Dish - Ingredients - Seasoning”
+🎯 Input Format：
+Establish a mapping association between MSIS and Chinese Medicine's "Monarch, Minister, Assistant, Guide”
 
----
+MSIS + Food Name + [Taste/Efficacy/Mouthfeel/Fragrance] + Optional:[Expected Effect]
 
-#### 🏡 Lifestyle Track (For Everyone) / 生活轨（普通用户）
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <div>
-    <b>Key Features:</b>
-    <ul>
-      <li>Seasonal recipes</li>
-      <li>Ingredient substitution</li>
-      <li>Constitution solutions</li>
-    </ul>
-  </div>
-  <div>
-    <b>特色功能:</b>
-    <ul>
-      <li>应季菜谱推荐</li>
-      <li>食材替代建议</li>
-      <li>体质调理方案</li>
-    </ul>
-  </div>
-</div>
-<div align="center" style="margin-top: 10px;">
-  <a href="#">Quick Start</a> | <a href="#">快速入门</a>
-</div>
+🥗 Beginner-Friendly Start： We recommend beginning with a simple mixed salad. Its straightforward ingredients and immediate sensory feedback make it perfect for establishing your baseline preferences and body responses.
+💫 Example Inputs：
+Mediterranean salad + fresh & energizing + want to feel lighter after lunch
+Warm quinoa bowl + hearty & nourishing + need sustained energy for afternoon work
+Step 2: Mindful Eating, Authentic Feedback
+🎭 Post-Meal Experience Recording： After enjoying your AI-recommended meal, share your embodied experience using your most natural, personal language. No need for technical jargon—just honest, felt-sense descriptions.
+🌟 Feedback Examples：
+Positive Response: "This salad felt incredibly refreshing and light. I had steady energy all afternoon without any crashes."
+Adjustment Needed: "The flavors were great, but it felt a bit too cold for my system today. Maybe something warmer next time?"
+Neutral Observation: "Pleasant taste and no discomfort, though I didn't notice any particular effects. Will continue monitoring.”
 
----
+[Three Disclaimers]
 
-### 📜 Terms / 使用条款
-<div style="font-size: 0.9em;">
-  <b>License:</b> Apache-2.0 | <b>开源协议:</b> Apache-2.0<br>
-  <b>Disclaimer:</b> Results may vary. Consult professionals.<br>
-  <b>免责声明:</b> 效果因人而异，使用前请咨询专业人士<br>
-  <i>"GPT Brothers" is a community alias / "GPT兄弟"为社区贡献者集体昵称</i>
-</div>
+1. I am not a medical professional
 
----
+2. All records are for personal experience
 
-<div align="center" style="margin: 20px 0;">
-  <h3>💡 Contact / 联系我们</h3>
-  <a href="#">[Issues]</a> • 
-  <a href="#">[Discussions]</a> • 
-  <a href="#">[Sponsor]</a><br>
-  <a href="#">[提交问题]</a> • 
-  <a href="#">[讨论区]</a> • 
-  <a href="#">[赞助我们]</a>
-</div>
+3. I am only using AI to make daily dietary recommendations
 
-<div align="center" style="font-style: italic; margin-top: 30px;">
-  "Making AI your kitchen's wise companion"<br>
-  "让AI成为你家厨房的智慧老友" 👨🍳🤖
-</div>
+
+
+💝 让AI不仅理解您的味蕾，更懂得您的身体。开始您的个性化健康饮食之旅吧！
+Let AI understand not only your taste buds but also your body. Start your personalized healthy eating journey!
