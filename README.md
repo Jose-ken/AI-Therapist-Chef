@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🍵 AI Dietary Therapy Assistant<br>基于个人体感数据训练的垂直领域LLM</h1>
+  <h1>🍵 Vertical domain LLM trained on personal sensory data"<br>基于个人体感数据训练的垂直领域LLM</h1>
   <h3>Dual-Track Open Source Project · 双轨开源项目</h3>
 </div>
 
