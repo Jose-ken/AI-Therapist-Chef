@@ -1,93 +1,70 @@
-# 🍃 AI食疗健康饮食模型
+# 🍽️ AI Nutritionist Assistant 
 
 **基于个人体感数据训练的垂直领域LLM**  
-让古老的食疗智慧与现代AI技术完美融合，为您量身定制专属的健康饮食助手
+*Vertical Domain LLM Trained on Personal Sensory Data*
 
 ---
 
-## ✨ 项目介绍
+## ✨ Core Features
 
-这是一个开创性的开源项目，将传统中医食疗的"君臣佐使"配伍理论与AI深度学习相结合。通过收集和分析您的真实用餐体验，逐步构建一个懂您身体、知您喜好的个人健康饮食模型。
+### 🧠 **智能学习** | Smart Learning
+基于您的真实体感反馈，持续优化推荐精度  
+*Improves recommendations based on your sensory feedback*
 
----
+### 🏥 **传统智慧** | Traditional Wisdom
+融入千年中医食疗配伍原理，科学而温和  
+*Incorporates 5,000 years of dietary wisdom*
 
-## 🎯 项目特色
-
-| 特色 | 描述 |
-|------|------|
-| 🧠 **智能学习** | 基于您的真实体感反馈，持续优化推荐精度 |
-| 🏥 **传统智慧** | 融入千年中医食疗配伍原理，科学而温和 |
-| 👤 **个性定制** | 每个人都有独特的体质，您的模型只属于您 |
-| 🔓 **开源透明** | 完全开放的技术实现，可自由修改和扩展 |
-
----
-
-## 🚀 中文用户指南
-
-### 第一步：成为您专属AI的"训练师"
-
-📌 **基础输入格式**：
-君臣佐使 + 食材名称 + [口味/功效/口感/香味] + 可选：[期望效果]
-
-💡 **新手友好建议**：  
-从最简单的粥品或养生糖水开始您的AI训练之旅！这些温和的食物最容易让您感知到身体的细微变化。
-
-🍲 **示例输入**：
-银耳莲子粥 + 清甜润燥 + 希望改善秋燥症状
-红豆薏米水 + 清淡去湿 + 想要缓解身体沉重感
-
-### 第二步：用心感受，真诚反馈
-
-📝 **用餐体验记录**：  
-用最真实、最生动的语言描述您的感受（无需专业术语）。
-
-✨ **反馈示例**：
-积极体验："这碗粥喝完后胃里暖暖的，整个人都放松了，晚上睡得特别香。"
-需要调整："味道不错，但感觉有点上火，嘴巴第二天有点干。"
-中性反馈："没有明显不适，但也没有特别的感觉。"
+### 👤 **个性定制** | Personalization
+每个人都有独特的体质，您的模型只属于您  
+*Tailored to your unique constitution*
 
 ---
 
-## 🌍 English User Guide
+## 🚀 使用指南 | User Guide
 
-### Step 1: Become the "Trainer" of Your Personal AI
+### 💤 解决小毛病 | Solve Minor Issues
+👉 "用君臣佐使帮我分析，为啥吃完牛肉面就想睡觉？"  
+*"Use MSIS to analyze why I feel sleepy after eating noodles?"*  
+✅ **答案**：面条缺青菜平衡，加点醋就精神了！  
+*"Answer: Needs veggie balance - add vinegar for energy!"*
 
-📚 **Understanding the Foundation**：  
-We've adapted TCM's "Monarch, Minister, Assistant, Guide" principle into:  
-`Main Dish - Side Dish - Ingredients - Seasoning (MSIS)`
+### 🍲 升级家常菜 | Upgrade Home Cooking
+👉 "用君臣佐使写个水煮牛肉菜谱"  
+*"Use MSIS to create a boiled beef recipe"*  
+✅ **特色**：解释每种配料的健康作用  
+*"Explains each ingredient's health benefits"*
 
-🎯 **Input Format**：
-Establish a mapping association between MSIS and Chinese Medicine's "Monarch, Minister, Assistant, Guide”
-MSIS + Food Name + [Taste/Efficacy/Mouthfeel/Fragrance] + Optional:[Expected Effect]
-
-🥗 **Beginner-Friendly Start**：  
-Begin with simple mixed salads for clear sensory feedback.
-
-💫 **Example Inputs**：
-Positive: "This salad kept me energized all afternoon."
-
-Adjustment: "Great flavor but too cold for my system today."
-
-Neutral: "Pleasant taste with no noticeable effects."
+### 🌱 私人食疗师 | Personal Dietitian
+👉 "用君臣佐使设计道降血压的芹菜菜谱"  
+*"Use MSIS to design a blood pressure-lowering celery recipe"*  
+✅ **优势**：24小时随叫随到  
+*"24/7 availability"*
 
 ---
 
-## ⚠️ 免责声明
+## 🌍 Western Food Examples
 
-1. 本人非医疗专业人士
-2. 所有记录仅为个人体感实验
-3. 本人仅用AI做日常饮食搭配建议
+### 🍔 Solving Issues
+👉 "Use MSIS to analyze post-burger sluggishness?"  
+✅ **Answer**: Bun lacks greens - add pickles for digestion!
+
+### 🥩 Recipe Upgrade
+👉 "Use MSIS for perfect steak recipe"  
+✅ **Bonus**: Explains each herb's benefits
+
+### 🥗 Dietary Therapy
+👉 "Use MSIS for heart-healthy Mediterranean salad"  
+✅ **Plus**: More attentive than a dietitian
 
 ---
-[Disclaimer]
 
-1. I am not a medical professional
-
-2. All records are for personal experience
-
-3. I am only using AI to make daily dietary recommendations
+## ⚠️ 免责声明 | Disclaimer
+1. 本人非医疗专业人士 | I am not a medical professional
+2. 所有记录仅为个人体感实验 | All records are personal experiments  
+3. 本人仅用AI做日常饮食搭配建议 | Only for daily dietary suggestions
 
 ---
 
-💝 **让AI不仅理解您的味蕾，更懂得您的身体。开始您的个性化健康饮食之旅吧！**  
-*Let AI understand not just your taste buds, but your whole body. Begin your personalized health journey today!*
+**让AI成为您的私人营养管家！**  
+*Let AI be your personal nutrition guide!*
