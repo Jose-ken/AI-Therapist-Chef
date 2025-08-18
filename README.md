@@ -3,8 +3,7 @@
 **基于个人体感数据训练的垂直领域LLM**  
 *Vertical Domain LLM Trained on Personal Sensory Data*
 
-秘诀在于一个神奇的咒语——“君臣佐使”（MSIS）
-
+秘诀在于一个神奇的咒语——“君臣佐使”（MSIS）<br>
 The secret is a magic spell—"Main-Side-Ingredient-Seasoning" (MSIS)
 ---
 
